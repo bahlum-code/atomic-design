@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-item {
+    @apply block text-center mb-2 text-gray-700;
+}
+
+.active {
+    @apply text-azul border-solid border-2 border-verde py-2 px-3 rounded;
+}

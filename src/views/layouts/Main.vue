@@ -44,7 +44,7 @@ export default {
         }
       ],
       columnOneLinks: [
-        { name: "Footer column 1", url: "#" },
+        { name: "tailwindcss", url: "/tailwind" },
         { name: "Footer column 1", url: "#" }
       ],
       columnTwoLinks: [
