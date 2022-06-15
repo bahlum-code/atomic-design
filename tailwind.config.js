@@ -2,6 +2,14 @@ module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
+    container: {
+      center: true
+    },
+    fontFamily: {
+      sans: ['Roboto', 'sans-serif'],
+      display: ['Roboto', 'sans-serif'],
+      body: ['Roboto', 'sans-serif']
+    },
     extend: {
       colors: {
         azul: '#1e608b',
